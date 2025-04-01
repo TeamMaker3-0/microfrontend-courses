@@ -1,0 +1,33 @@
+/* src/App.css */
+.App {
+  font-family: Arial, sans-serif;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.create-course-section,
+.courses-container {
+  margin-bottom: 30px;
+  border: 1px solid #ddd;
+  padding: 15px;
+  border-radius: 4px;
+}
+
+.create-course-section label,
+.add-student-section label {
+  display: block;
+  margin-top: 10px;
+  font-weight: bold;
+}
+
+.course-card {
+  border: 1px solid #ccc;
+  padding: 15px;
+  margin-bottom: 15px;
+  border-radius: 4px;
+}
+
+.add-student-section {
+  margin-top: 10px;
+}
